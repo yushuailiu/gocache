@@ -1,0 +1,1 @@
+原作者仓库为：github.com/muesli/cache2go，本项目以学习为目的做的练习。
